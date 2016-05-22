@@ -37,7 +37,7 @@ ul,ol {
     font-size: 17px;
     font-family:sans-serif;
     background-color: rgba(164, 250, 1, 0.42);
-    border: 2px solid #33ff91;
+    border: 2px solid #5d860;
     border-radius: 5px;
     overflow: hidden;
     outline: none;
@@ -47,7 +47,7 @@ ul,ol {
 #GreenEditor #buttons {
     padding: 2px 3px 3px 6px;
     height: 34px;
-    border-top: 3px double #33ff91;
+    border-top: 3px double #5d860;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
@@ -59,7 +59,7 @@ ul,ol {
     padding-top: 2px;
     margin-right: 2px;
     background-color: rgba(245, 253, 150, 0.83);
-    border: 1px solid #33ff91;
+    border: 1px solid #5d860;
     border-radius: 5px;
     display: block;
     float: left;
@@ -72,7 +72,7 @@ ul,ol {
 #GreenEditor #buttons .divide {
     height: 25px;
     width: 0px;
-    border-left: 1px solid #33ff91;
+    border-left: 1px solid #5d860;
     float: left;
     margin-top: 0px;
     
