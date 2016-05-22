@@ -93,7 +93,8 @@ ul,ol {
 }
 #GreenEditor #theInputField img{   
     max-width: 60%;    
-    max-height: 35%;    
+    max-height: 35%;
+    min-height:30%;
 }
 
 #GreenEditor #theInputField:focus {
