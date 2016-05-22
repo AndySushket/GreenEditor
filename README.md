@@ -1,3 +1,3 @@
 # GreenEditor
-my first github upload.
-About pictures....clipboard work only on PrntScr
+My first github upload.
+About pictures...clipboard on "paste" work only with PrntScr.
