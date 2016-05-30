@@ -100,7 +100,7 @@ $(function() {
                 }
             }
             if (editor.getContent()) {
-                var nodeThatCursorIsInside = editor.selection.getRangeAt(0).startContainer.parentNode;
+                var nodeThatCursorIsInside = editor.selection.getRangeAt(0).endContainer.parentNode;
                 var currentNode = nodeThatCursorIsInside;
                 var parentNodesNames = [];
                 while (currentNode.id !== GreenEditor.view.field.attr('id')) {
