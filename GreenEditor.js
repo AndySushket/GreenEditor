@@ -258,7 +258,6 @@ $(function() {
 
     GreenEditor.init();    
 
-    GreenEditor.view.buttons.on('click', GreenEditor.highlight);
     GreenEditor.view.field.on('click', GreenEditor.activateButtons);
     
     GreenEditor.view.field.on('mouseup', function() {
